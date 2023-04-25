@@ -1,13 +1,11 @@
 # Starting template
 
-This README will need to contain a description of your project, how to run it, how to set up the development environment, and who worked on it.
-This information can be added throughout the course, except for the names of the group members.
-Add your own name (do not add the names for others!) to the section below.
+This README will need contains information about the description of the project, the team that contributed to the project and instructions on how to initialise and run the app locally. If you have any issues with doing so, contact me at: cristiantdr03@yahoo.com. Thank you and I hope you will enjoy!
 
 ## Description of project
-Testing whatever
-It worked for me - Cristian
-Worked for me too I think - Andrei
+
+Talio is a project developed during the course CSE1105 - Object Oriented Programming Project by OOPP Team 62 composed by the memebers presented in the next section. Talio is a task management app that allows the users to organize and prioritise their tasks in different boards and lists. It provides support for costumisation, keyboards shortcuts, protected boards, multi-user access, synchronization and admin management. 
+
 ## Group members
 
 | Profile Picture | Name | Email |
@@ -18,12 +16,6 @@ Worked for me too I think - Andrei
 | ![](https://secure.gravatar.com/avatar/3a83cd892f1433ec65466fa6b4b7e293?s=800&d=identicon&length=4&size=50&color=DDD&background=777&font-size=0.325) | Cristian Toadere | c.f.toadere@student.tudelft.nl |
 | ![](https://secure.gravatar.com/avatar/80563c8b75551f77dfdbb3dae6d648b0?s=800&d=identicon&length=4&size=50&color=DDD&background=777&font-size=0.325) | Marin Perković | M.Perkovic@student.tudelft.nl |
 | ![](https://secure.gravatar.com/avatar/18df772a35e9d50a4c281b668c69c2b5?s=800&d=identicon&length=4&size=50&color=DDD&background=777&font-size=0.325) | Alexandra Nicola | A.M.Nicola@student.tudelft.nl |
-
-<!-- Instructions (remove once assignment has been completed -->
-<!-- - Add (only!) your own name to the table above (use Markdown formatting) -->
-<!-- - Mention your *student* email address -->
-<!-- - Preferably add a recognizable photo, otherwise add your GitLab photo -->
-<!-- - (please make sure the photos have the same size) -->
 
 ## How to run it
 

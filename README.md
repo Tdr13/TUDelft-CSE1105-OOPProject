@@ -4,7 +4,7 @@ This README will need contains information about the description of the project,
 
 ## Description of project
 
-Talio is a project developed during the course CSE1105 - Object Oriented Programming Project by OOPP Team 62 composed by the memebers presented in the next section. Talio is a task management app that allows the users to organize and prioritise their tasks in different boards and lists. It provides support for costumisation, keyboards shortcuts, protected boards, multi-user access, synchronization and admin management. 
+Talio is a project developed during the course CSE1105 - Object Oriented Programming Project offered by Technical Univeristy of Delft by OOPP Team 62 (class of 2023)  composed by the developers presented in the next section. Talio is a task management app that allows the users to organize and prioritise their tasks in different boards and lists. It provides support for costumisation, keyboards shortcuts, protected boards, multi-user access, synchronization and admin management. 
 
 ## Group members
 

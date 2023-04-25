@@ -52,5 +52,5 @@ Worked for me too I think - Andrei
 > 10. Delete the branch you created.
 > 11. Pull the changes from the main branch.
 > 12. Repeat steps 3-11.
-## Copyright / License (opt.)
+## Copyright / License
 Alexandra Nicola, Andreea Tebrean, Andrei Stefan, Cristian Toadere, Marin Perković, Vasko V. Guenov

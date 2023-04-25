@@ -1,6 +1,6 @@
 # Starting template
 
-This README will need contains information about the description of the project, the team that contributed to the project and instructions on how to initialise and run the app locally. If you have any issues with doing so, contact me at: cristiantdr03@yahoo.com. Thank you and I hope you will enjoy!
+This README contains information about the description of the project, the team that contributed to the project and instructions on how to initialise and run the app on your local device. If you encounter any issues or have any questions, do not hesitate to contact me at: cristiantdr03@yahoo.com. Thank you and I hope you will enjoy the app!
 
 ## Description of project
 
